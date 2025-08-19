@@ -19,8 +19,10 @@ namespace _1ExBoasVindas
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Recebendo o nome da caixa de texto
             string nome = textBox1.Text;
 
+            //Apresentando a mensagem e o nome
             MessageBox.Show($"Bem-vindo {nome}");
         }
     }
