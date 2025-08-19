@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\bin\Debug\3VerificaMedia.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\bin\Debug\3VerificaMedia.exe
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\bin\Debug\3VerificaMedia.pdb
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\_3VerificaMedia.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\_3VerificaMedia.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.exe
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.pdb
+C:\Users\luis_\source\repos\WindowsForms38\3VerificaMedia\obj\Debug\3VerificaMedia.exe.config

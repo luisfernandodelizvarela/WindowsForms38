@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\bin\Debug\4Tabuada.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\bin\Debug\4Tabuada.exe
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\bin\Debug\4Tabuada.pdb
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\_4Tabuada.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\_4Tabuada.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.exe
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.pdb
+C:\Users\luis_\source\repos\WindowsForms38\4Tabuada\obj\Debug\4Tabuada.exe.config

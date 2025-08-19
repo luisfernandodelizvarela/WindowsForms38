@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\bin\Debug\5CadastroPessoas.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\bin\Debug\5CadastroPessoas.exe
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\bin\Debug\5CadastroPessoas.pdb
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\_5CadastroPessoas.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\_5CadastroPessoas.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.exe
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.pdb
+C:\Users\luis_\source\repos\WindowsForms38\5CadastroPessoas\obj\Debug\5CadastroPessoas.exe.config

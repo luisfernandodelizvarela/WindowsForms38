@@ -1,0 +1,10 @@
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\bin\Debug\0ExemploWF38.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\bin\Debug\0ExemploWF38.exe
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\bin\Debug\0ExemploWF38.pdb
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\0ExemploWF38.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\_0ExemploWF38.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\_0ExemploWF38.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\0ExemploWF38.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\0ExemploWF38.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\0ExemploWF38.exe
+C:\Users\luis_\source\repos\WindowsForms38\0ExemploWF38\obj\Debug\0ExemploWF38.pdb

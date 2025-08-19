@@ -1,0 +1,9 @@
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\bin\Debug\1ExBoasVindas.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\bin\Debug\1ExBoasVindas.exe
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\bin\Debug\1ExBoasVindas.pdb
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\1ExBoasVindas.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\_1ExBoasVindas.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\1ExBoasVindas.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\1ExBoasVindas.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\1ExBoasVindas.exe
+C:\Users\luis_\source\repos\WindowsForms38\1ExBoasVindas\obj\Debug\1ExBoasVindas.pdb

@@ -1,0 +1,10 @@
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\bin\Debug\2MediaAritmetica.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\bin\Debug\2MediaAritmetica.exe
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\bin\Debug\2MediaAritmetica.pdb
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\2MediaAritmetica.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\_2MediaAritmetica.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\_2MediaAritmetica.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\2MediaAritmetica.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\2MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\2MediaAritmetica.exe
+C:\Users\luis_\source\repos\WindowsForms38\2MediaAritmetica\obj\Debug\2MediaAritmetica.pdb
