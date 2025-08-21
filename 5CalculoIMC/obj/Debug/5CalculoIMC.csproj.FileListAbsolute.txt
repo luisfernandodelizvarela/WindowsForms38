@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\bin\Debug\5CalculoIMC.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\bin\Debug\5CalculoIMC.exe
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\bin\Debug\5CalculoIMC.pdb
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\_5CalculoIMC.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\_5CalculoIMC.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.exe
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.pdb
+C:\Users\luis_\source\repos\WindowsForms38\5CalculoIMC\obj\Debug\5CalculoIMC.exe.config
