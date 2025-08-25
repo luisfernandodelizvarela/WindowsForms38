@@ -33,19 +33,20 @@
             this.txtBoxPeso = new System.Windows.Forms.TextBox();
             this.txtBoxAltura = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
+            this.lblResultado = new System.Windows.Forms.Label();
+            this.lblClassificacao = new System.Windows.Forms.Label();
             this.btnSair = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(18, 19);
+            this.label1.Location = new System.Drawing.Point(12, 12);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(457, 46);
+            this.label1.Size = new System.Drawing.Size(311, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "Informe o seu peso: (Kg)";
             // 
@@ -53,26 +54,29 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(18, 153);
+            this.label2.Location = new System.Drawing.Point(12, 99);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(453, 46);
+            this.label2.Size = new System.Drawing.Size(309, 31);
             this.label2.TabIndex = 1;
             this.label2.Text = "Informe a sua altura: (m)";
             // 
             // txtBoxPeso
             // 
             this.txtBoxPeso.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBoxPeso.Location = new System.Drawing.Point(22, 84);
+            this.txtBoxPeso.Location = new System.Drawing.Point(15, 55);
+            this.txtBoxPeso.Margin = new System.Windows.Forms.Padding(2);
             this.txtBoxPeso.Name = "txtBoxPeso";
-            this.txtBoxPeso.Size = new System.Drawing.Size(797, 53);
+            this.txtBoxPeso.Size = new System.Drawing.Size(533, 38);
             this.txtBoxPeso.TabIndex = 2;
             // 
             // txtBoxAltura
             // 
             this.txtBoxAltura.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBoxAltura.Location = new System.Drawing.Point(22, 220);
+            this.txtBoxAltura.Location = new System.Drawing.Point(15, 143);
+            this.txtBoxAltura.Margin = new System.Windows.Forms.Padding(2);
             this.txtBoxAltura.Name = "txtBoxAltura";
-            this.txtBoxAltura.Size = new System.Drawing.Size(797, 53);
+            this.txtBoxAltura.Size = new System.Drawing.Size(533, 38);
             this.txtBoxAltura.TabIndex = 3;
             // 
             // btnCalcular
@@ -80,74 +84,81 @@
             this.btnCalcular.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalcular.ForeColor = System.Drawing.Color.White;
-            this.btnCalcular.Location = new System.Drawing.Point(22, 413);
+            this.btnCalcular.Location = new System.Drawing.Point(15, 268);
+            this.btnCalcular.Margin = new System.Windows.Forms.Padding(2);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(797, 110);
+            this.btnCalcular.Size = new System.Drawing.Size(531, 72);
             this.btnCalcular.TabIndex = 4;
             this.btnCalcular.Text = "Calcular o IMC";
             this.btnCalcular.UseVisualStyleBackColor = false;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // label3
+            // lblResultado
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(197, 323);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(126, 46);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "label3";
+            this.lblResultado.AutoSize = true;
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(73, 210);
+            this.lblResultado.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(137, 31);
+            this.lblResultado.TabIndex = 5;
+            this.lblResultado.Text = "Resultado";
             // 
-            // label4
+            // lblClassificacao
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(526, 323);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(126, 46);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "label4";
+            this.lblClassificacao.AutoSize = true;
+            this.lblClassificacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblClassificacao.Location = new System.Drawing.Point(323, 210);
+            this.lblClassificacao.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblClassificacao.Name = "lblClassificacao";
+            this.lblClassificacao.Size = new System.Drawing.Size(176, 31);
+            this.lblClassificacao.TabIndex = 6;
+            this.lblClassificacao.Text = "Classificação";
             // 
             // btnSair
             // 
             this.btnSair.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSair.ForeColor = System.Drawing.Color.White;
-            this.btnSair.Location = new System.Drawing.Point(653, 552);
+            this.btnSair.Location = new System.Drawing.Point(435, 359);
+            this.btnSair.Margin = new System.Windows.Forms.Padding(2);
             this.btnSair.Name = "btnSair";
-            this.btnSair.Size = new System.Drawing.Size(166, 86);
+            this.btnSair.Size = new System.Drawing.Size(111, 56);
             this.btnSair.TabIndex = 7;
             this.btnSair.Text = "SAIR";
             this.btnSair.UseVisualStyleBackColor = false;
             this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
-            // button1
+            // btnLimpar
             // 
-            this.button1.BackColor = System.Drawing.Color.DodgerBlue;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(353, 552);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(276, 86);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "LIMPAR CAMPOS";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnLimpar.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimpar.ForeColor = System.Drawing.Color.White;
+            this.btnLimpar.Location = new System.Drawing.Point(235, 359);
+            this.btnLimpar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLimpar.Name = "btnLimpar";
+            this.btnLimpar.Size = new System.Drawing.Size(184, 56);
+            this.btnLimpar.TabIndex = 8;
+            this.btnLimpar.Text = "LIMPAR CAMPOS";
+            this.btnLimpar.UseVisualStyleBackColor = false;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(850, 663);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(567, 431);
+            this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnSair);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lblClassificacao);
+            this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtBoxAltura);
             this.Controls.Add(this.txtBoxPeso);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -163,10 +174,10 @@
         private System.Windows.Forms.TextBox txtBoxPeso;
         private System.Windows.Forms.TextBox txtBoxAltura;
         private System.Windows.Forms.Button btnCalcular;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Label lblClassificacao;
         private System.Windows.Forms.Button btnSair;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnLimpar;
     }
 }
 

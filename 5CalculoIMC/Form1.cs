@@ -22,7 +22,12 @@ namespace _5CalculoIMC
             Application.Exit();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
         {
             txtBoxPeso.Text = "";
             txtBoxAltura.Text = "";
