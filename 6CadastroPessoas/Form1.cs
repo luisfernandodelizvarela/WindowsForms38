@@ -32,8 +32,10 @@ namespace _5CadastroPessoas
 
         private void btnVisualizar_Click(object sender, EventArgs e)
         {
+            //Limpando a lista
             listBoxNomes.Items.Clear();
 
+            //Percorrendo a lista
             foreach (var item in listaNomes)
             {
                 listBoxNomes.Items.Add(item);
