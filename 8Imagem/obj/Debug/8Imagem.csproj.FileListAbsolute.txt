@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\bin\Debug\8Imagem.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\bin\Debug\8Imagem.exe
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\bin\Debug\8Imagem.pdb
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\_8Imagem.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\_8Imagem.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.exe
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.pdb
+C:\Users\luis_\source\repos\WindowsForms38\8Imagem\obj\Debug\8Imagem.exe.config

@@ -1,0 +1,11 @@
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\bin\Debug\7TesteRandom.exe.config
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\bin\Debug\7TesteRandom.exe
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\bin\Debug\7TesteRandom.pdb
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\_7TesteRandom.Form1.resources
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\_7TesteRandom.Properties.Resources.resources
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.exe
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.pdb
+C:\Users\luis_\source\repos\WindowsForms38\7TesteRandom\obj\Debug\7TesteRandom.exe.config
